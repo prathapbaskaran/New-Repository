@@ -5,6 +5,7 @@ import java.io.collection;
 import java.io.scanner;
 import java.io.outputprinter;
 import java.io.testing2;
+>>>>>>> feature1
 public class SpiralPatternExample2
 {  
 //function to print the spiral pattern  
