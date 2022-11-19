@@ -4,7 +4,7 @@ import java.io.printer;
 import java.io.collection; 
 import java.io.scanner;
 import java.io.outputprinter;
-import java.io.testing2;
+import java.io.Bprathap;
 >>>>>>> feature1
 public class SpiralPatternExample2
 {  
